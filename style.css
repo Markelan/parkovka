@@ -55,7 +55,7 @@ a:hover {
 }
 
 .avatar {
-  width: 200px;
+  width: 500px;
   border-radius: 20px;
   box-shadow: 4px 4px 14px rgb(88, 80, 80);
 }
@@ -76,6 +76,7 @@ a:hover {
   padding: 15px 20px;
   margin-bottom: 20px;
   border-radius: 20px;
+  box-shadow: 4px 4px 14px rgb(155, 142, 142);
 }
 
 .card h2 {
@@ -119,6 +120,7 @@ a:hover {
 
 .contact {
   font-weight: bold;
+  margin-top: 200px;
 }
 
 .contact h2 {
